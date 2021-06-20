@@ -1,11 +1,13 @@
-## Olá, bem vindo ao meu perfil 👋🏻
+## Olá, bem vindo(a) ao meu perfil 👋🏻
 
-Me chamo João Vitor e sou de Mogi das Cruzes/SP 🇧🇷
+### Me chamo João Vitor e sou de Mogi das Cruzes/SP 🇧🇷
 
-📚 Cursando Engenharia da Computação  
-🎓 Formado em Técnico de Mecatrônica  
-🖥️ Apaixonado por tecnologia e desenvolvimento  
-🚀 Iniciando estudos em Java, HTML, CSS, JavaScript e Python  
+- 👨🏻‍💻 Desenvolvedor Python com foco em Web
+- 📚 Cursando Engenharia da Computação  
+- 🎓 Formado em Técnico de Mecatrônica  
+- 🖥️ Apaixonado por tecnologia e desenvolvimento  
+- 🚀 Estudando um pouco de tudo mas foco principal em Django e Flask  
+- 💙 Sky.One Team  
   
 ## Contato 📲
 [![Linkedin Badge](https://img.shields.io/badge/-JoaoGodoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-godoi/)](https://www.linkedin.com/in/joao-godoi/)
