@@ -11,5 +11,5 @@
   
 ## Contato 📲
 [![Linkedin Badge](https://img.shields.io/badge/-JoaoGodoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-godoi/)](https://www.linkedin.com/in/joao-godoi/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaoo.godoi@gmail.com)](mailto:jaoo.godoi@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/joao_godoibjj/)](https://www.instagram.com/joao_godoibjj/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaogodoi.dev@gmail.com)](mailto:jaoo.godoi@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/joao__godoi/)](https://www.instagram.com/joao__godoi/)
