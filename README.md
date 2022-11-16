@@ -1,17 +1,15 @@
-# Olá, bem vindo(a) ao meu perfil 👋🏻
+## Olá, bem vindo(a) ao meu perfil 👋🏻
 
 ### Me chamo João Vitor e sou de Mogi das Cruzes/SP 🇧🇷
 
 <br><br>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Godoi&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Godoi&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-Godoi&show_icons=true&theme=transparent">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Godoi&layout=demo">
 
 <br><br>
 
-# Algumas das tecnologias que já trabalhei
+## Algumas das tecnologias que já trabalhei
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,7 +30,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br><br>
-# Redes sociais
+## Redes sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-godoi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogodoi.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joao__godoi/)
