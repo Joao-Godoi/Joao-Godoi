@@ -4,8 +4,10 @@
 
 <br>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Joao-Godoi&show_icons=true&theme=dark">](https://metrics.lecoq.io/Joao-Godoi#gh-dark-mode-only)
-
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Godoi&show_icons=true&theme=dark"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Godoi&layout=demo&theme=dark"/>
+</div>
 
 <br>
 
@@ -29,7 +31,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<br><br>
+<br>
+
 ## Redes sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-godoi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogodoi.dev@gmail.com)
