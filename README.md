@@ -2,12 +2,12 @@
 
 ### Me chamo João Vitor e sou de Mogi das Cruzes/SP 🇧🇷
 
-<br><br>
+<br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-Godoi&show_icons=true&theme=transparent">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Godoi&layout=demo">
+[<img src="https://github-readme-stats.vercel.app/api?username=Joao-Godoi&show_icons=true&theme=dark">](https://metrics.lecoq.io/Joao-Godoi#gh-dark-mode-only)
 
-<br><br>
+
+<br>
 
 ## Algumas das tecnologias que já trabalhei
 <br>
