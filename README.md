@@ -1,6 +1,6 @@
 ## Olá, bem vindo(a) ao meu perfil 👋🏻
 
-### Me chamo João Vitor e sou de Mogi das Cruzes/SP 🇧🇷
+### Me chamo João Godoi e sou de Mogi das Cruzes/SP 🇧🇷
 
 <br>
 
