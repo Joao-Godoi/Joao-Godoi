@@ -33,7 +33,7 @@ Sou um estudante de Engenharia de Software e amante da tecnologia!
 Tenho experiência com Desenvolvimento de Sistemas e programação web Back-end.
 
 Meus principais conhecimentos em tecnologias são <b>Python</b>, <b>Java</b>, <b>Kotlin</b>, <b>Docker</b> e <b>Kubernetes</b>.
-Minhas principais habilidades são projetar APIs, criar testes unitários, contribuir em modelagens de APIs seguindo princípios de design de software, tentar refatorar códigos mal otimizados e fazer documentações.
+Minhas principais habilidades são projetar APIs, criar testes unitários, contribuir em modelagens de APIs seguindo princípios de design de software, tentar refatorar códigos mal otimizados e criar documentações para projetos.
 
 Atualmente, estou trabalhando como _Desenvolvedor Back-end Pleno_ no time de engenharia da [Geofusion](https://geofusion.com.br/).
 </div>
