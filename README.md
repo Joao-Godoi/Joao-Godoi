@@ -12,7 +12,7 @@
     <a href="https://github.com/joao-godoi">
         <img height="170em"
             src="https://github-readme-stats.vercel.app/api?username=Joao-Godoi&show_icons=true&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=GitHub Stats"
-            alt="Most used languages">
+            alt="GitHub Stats">
     </a>
     <a href="https://github.com/joao-godoi">
         <img height="170em"
